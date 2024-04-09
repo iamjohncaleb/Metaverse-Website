@@ -1,4 +1,3 @@
-
 const Head = () => (
   <>
     <title>Metaversus</title>
