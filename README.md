@@ -1,9 +1,5 @@
   ![Static Badge](https://img.shields.io/badge/Next%2013-black?style=for-the-badge&logo=Next%2013&logoColor=white&labelColor=blue&color=blue) ![Static Badge](https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=Framer%20motion&logoColor=white&labelColor=blue&color=black) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=%23088F8F&color=%23088F8F)
 
-
-Sure! Below is a sample `README.md` file for a modern website built with Next.js 13, Framer Motion, and Tailwind CSS.
-
-```markdown
 # Modern Next.js 13 Website with Framer Motion & Tailwind CSS
 
 This repository contains the source code for a modern, responsive website built with Next.js 13, enhanced with Framer Motion for animations and styled with Tailwind CSS. The website demonstrates best practices for building fast, interactive, and aesthetically pleasing web applications.
@@ -156,5 +152,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
-Feel free to customize this `README.md` to better fit the specifics of your project, including the repository URL, additional features, or dependencies.
