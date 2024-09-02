@@ -138,6 +138,9 @@ modern-next13-website/
 └── .gitignore                  # Git ignore file
 ```
 
+## Visit live site
+https://full-stack-social-media-app-pw6a.vercel.app/
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
