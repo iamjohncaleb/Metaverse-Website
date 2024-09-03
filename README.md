@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/modern-next13-website.git
+   git clone https://github.com/iamjohncaleb/modern-next13-website.git
    cd modern-next13-website
    ```
 
